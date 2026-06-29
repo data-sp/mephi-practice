@@ -257,7 +257,4 @@ submission.csv
 
 **Финальный public Kaggle score:** `293.8085 RMSE`
 
----
-
-Решение выполнено индивидуально.
 
